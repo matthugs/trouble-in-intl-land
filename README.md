@@ -1,0 +1,5 @@
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+To see the issue you should only need to `npm install` and then `npm start`.
+
+All the relevant code is in `App.js` and `Magic.js`.
